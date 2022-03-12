@@ -53,7 +53,7 @@ And you will automatically receive a notification to your private email for conf
 
 ![WhatsApp Image 2022-03-12 at 17 02 26](https://user-images.githubusercontent.com/93192285/158023503-527d5f33-fc87-45c2-b5e9-419cfde8a3c6.jpeg)
 
-we can make DONE / V as well :
+We can mark a task as completed by ticking the checkbox next to the task :
 
 ![WhatsApp Image 2022-03-12 at 17 04 27](https://user-images.githubusercontent.com/93192285/158023532-55d39268-1ab9-4fa6-a3de-2ed9a8bf6c03.jpeg)
 
