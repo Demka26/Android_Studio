@@ -59,7 +59,7 @@ We can mark a task as completed by ticking the checkbox next to the task :
 
 
 # Splash Screen - navigation screen :
-a screen that shows only a few second before the launch screen .
+A launch screen that shows for a few seconds before the main screen .
 
 ![logIn_navi_screen](https://user-images.githubusercontent.com/93192285/158018375-eaf2ac85-806e-45d0-b97b-ee1e18b2b7de.JPG)
 
