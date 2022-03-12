@@ -4,39 +4,40 @@
 
 Final project in Android studio course.
 
-This Application offers to creating a TO DO List
-that can be used to create , edit , Delete 
+This Application offers students to manage their tasks, to stay organized and get more done.
+A student can create a task, edit, tick it as done and delete it.
 
-and to 
 
-*Connect to Google's Firebase *
+The whole project is connected to * Google's Firebase * and uses the functions provided by firebase.
 
-Develop by me and my friends as a final project.
+
+Developed by me and my friends as a final project.
 
 All rights reserved – Demi Gelfond ,Ohad Cohen and Shoval Soli.
 
 Visibility on app screens here :
 
-# Sing Up Screen :
-on this screen we have the opportunity to sing up for the first time ! 
+# Sign-up Screen :
+This screen gives you the opportunity to sign up for the first time ! 
 
 ![singUP](https://user-images.githubusercontent.com/93192285/158017769-4148120d-c865-4a92-8bd9-1d20bec5553d.JPG)
 
 # Log-in Screen :
-on this screen we can connect to our App .
+This screen connects you to our App .
 
-you can choose to stay sing-in when ever you open the App .
+You can choose to stay signed-in whenever you open the App .
 
-You can click the Forgot Password button and go to the specific screen that can help you.
+In case you forgot your password, you can easily recover it by pressing the "Forgot password", it will transfer you the password recovery screen, in which you enter your
+email and then get a password recovery link to your mail.
 
-also if you are not Sing in yet you have a special button that will lead you to the registration screen. 
+If you have'nt signed in yet, you have a special button that will lead you to the registration screen. 
 
 
 ![singInScreen](https://user-images.githubusercontent.com/93192285/158017831-0904c66d-0bc4-4a6c-bcd9-fb60b349e13d.JPG)
 
 
 # Forgot password Screen :
-on this screen you can enter your E-Mail Address.
+In this screen you can enter your email address.
 
 And you will automatically receive a notification to your private email for confirmation and identification.
 
@@ -49,7 +50,7 @@ And you will automatically receive a notification to your private email for conf
 
 
 # Splash Screen - navigation screen :
-a screen that show only a few second before the launch screen .
+a screen that shows only a few second before the launch screen .
 
 ![logIn_navi_screen](https://user-images.githubusercontent.com/93192285/158018375-eaf2ac85-806e-45d0-b97b-ee1e18b2b7de.JPG)
 
