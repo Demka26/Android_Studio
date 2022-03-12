@@ -53,7 +53,7 @@ a screen that show only a few second before the launch screen .
 
 ![logIn_navi_screen](https://user-images.githubusercontent.com/93192285/158018375-eaf2ac85-806e-45d0-b97b-ee1e18b2b7de.JPG)
 
-# Delet Task Screen : 
+# Delete Task Screen : 
 
 ![deletePic](https://user-images.githubusercontent.com/93192285/158018385-37271aa7-0dd4-4eb0-91fd-a722c7df66a8.JPG)
 
