@@ -5,6 +5,7 @@
 Final project in Android studio course.
 
 This Application offers students to manage their tasks, to stay organized and get more done.
+
 A student can create a task, edit, tick it as done and delete it.
 
 
@@ -47,6 +48,14 @@ And you will automatically receive a notification to your private email for conf
  *E-Mail notification : 
  
 ![PassswordRecover](https://user-images.githubusercontent.com/93192285/158018162-76f9e04d-3a5f-4cc1-b0c4-eeeaf48f9bae.JPG)
+
+# Create Task Screen : 
+
+![WhatsApp Image 2022-03-12 at 17 02 26](https://user-images.githubusercontent.com/93192285/158023503-527d5f33-fc87-45c2-b5e9-419cfde8a3c6.jpeg)
+
+we can make DONE / V as well :
+
+![WhatsApp Image 2022-03-12 at 17 04 27](https://user-images.githubusercontent.com/93192285/158023532-55d39268-1ab9-4fa6-a3de-2ed9a8bf6c03.jpeg)
 
 
 # Splash Screen - navigation screen :
