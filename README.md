@@ -14,3 +14,8 @@ All rights reserved – Demi Gelfond ,Ohad Cohen and Shoval Soli.
 
 Visibility on app screens here :
 
+# Sing Up Screen :
+on this screen we have the opportunity to sing up for the first time ! 
+
+![singUP](https://user-images.githubusercontent.com/93192285/158017769-4148120d-c865-4a92-8bd9-1d20bec5553d.JPG)
+
