@@ -6,7 +6,8 @@ Final project in Android studio course.
 
 This Application offers to creating a TO DO List
 that can be used to create , edit , Delete 
-and to **Connect to Google's Firebase*
+and to 
+**Connect to Google's Firebase
 
 Develop by me and my friends as a final project.
 
@@ -39,7 +40,19 @@ And you will automatically receive a notification to your private email for conf
 
 ![forgetPassScreen](https://user-images.githubusercontent.com/93192285/158018056-fa4229a3-0f77-420c-8fe2-ec59d3142596.JPG)
 
- ***E-Mail notification : 
+ ** E-Mail notification : 
 ![PassswordRecover](https://user-images.githubusercontent.com/93192285/158018162-76f9e04d-3a5f-4cc1-b0c4-eeeaf48f9bae.JPG)
 
 
+# Splash Screen - navigation screen :
+a screen that show only a few second before the launch screen .
+
+![logIn_navi_screen](https://user-images.githubusercontent.com/93192285/158018375-eaf2ac85-806e-45d0-b97b-ee1e18b2b7de.JPG)
+
+# Delet Task Screen : 
+
+![deletePic](https://user-images.githubusercontent.com/93192285/158018385-37271aa7-0dd4-4eb0-91fd-a722c7df66a8.JPG)
+
+# Log - Out Screen : 
+
+![LogOutPic](https://user-images.githubusercontent.com/93192285/158018397-877abe43-cd0e-47f6-8d47-01a741c80018.JPG)
