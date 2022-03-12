@@ -42,7 +42,9 @@ And you will automatically receive a notification to your private email for conf
 
 ![forgetPassScreen](https://user-images.githubusercontent.com/93192285/158018056-fa4229a3-0f77-420c-8fe2-ec59d3142596.JPG)
 
- **E-Mail notification : 
+
+ *E-Mail notification : 
+ 
 ![PassswordRecover](https://user-images.githubusercontent.com/93192285/158018162-76f9e04d-3a5f-4cc1-b0c4-eeeaf48f9bae.JPG)
 
 
@@ -55,6 +57,6 @@ a screen that show only a few second before the launch screen .
 
 ![deletePic](https://user-images.githubusercontent.com/93192285/158018385-37271aa7-0dd4-4eb0-91fd-a722c7df66a8.JPG)
 
-# Log - Out Screen : 
+# Log - Out button : 
 
 ![LogOutPic](https://user-images.githubusercontent.com/93192285/158018397-877abe43-cd0e-47f6-8d47-01a741c80018.JPG)
