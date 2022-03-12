@@ -27,7 +27,7 @@ This screen connects you to our App .
 
 You can choose to stay signed-in whenever you open the App .
 
-In case you forgot your password, you can easily recover it by pressing the "Forgot password", it will transfer you the password recovery screen, in which you enter your
+In case you forgot your password, you can easily recover it by pressing the "Forgot password", it will transfer you to the password recovery screen, in which you enter your
 email and then get a password recovery link to your mail.
 
 If you have'nt signed in yet, you have a special button that will lead you to the registration screen. 
