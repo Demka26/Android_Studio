@@ -14,7 +14,7 @@ The whole project is connected to * Google's Firebase * and uses the functions p
 
 Developed by me and my friends as a final project.
 
-All rights reserved – Demi Gelfond ,Ohad Cohen and Shoval Soli.
+All rights reserved – Demi Gelfond ,Ohad Cohen Shoval Soli and Mohamad Mousa.
 
 Visibility on app screens here :
 
